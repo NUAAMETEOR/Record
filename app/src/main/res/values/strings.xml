@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Record</string>
+    <string name="true_button">是</string>
+    <string name="false_button">否</string>
+    <string name="next_button">下一个</string>
+    <string name="prev_button">上一个</string>
+    <string name="right_tip">You are right</string>
+    <string name="wrong_tip">You are wrong</string>
+    <string name="warning_text" >Are u sure u want to do this?</string>
+    <string name="show_answer" >Show Answer</string>
+    <string name="judgment_toast" >Cheating is wrong</string>
+    <string name="cheat_button" >Cheat</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="question_oceans">1.The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">2.The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">3.The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">4.The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">5.Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
 </resources>
